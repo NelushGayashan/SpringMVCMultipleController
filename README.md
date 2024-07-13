@@ -86,7 +86,7 @@ This project expands on the basic example of creating multiple controllers in a 
 
 ## Contributors
 
-- [Your Name](https://github.com/NelushGayashan)
+- [Nelush Gayashan](https://github.com/NelushGayashan)
 
 ## License
 
